@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Somansh Raj Kashyap
 
-Aspiring Full-Stack Developer | Competitive Programmer
+Full-Stack Developer | Competitive Programmer
 
 *Currently pursuing B.Tech in Information Technology from the National Institute of Technology Raipur (Expected 2025).*
 
