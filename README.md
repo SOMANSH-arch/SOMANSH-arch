@@ -72,7 +72,6 @@ Aspiring Full-Stack Developer | Competitive Programmer
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SOMANSH-arch&theme=dark&hide_border=true&border_radius=10" alt="SOMANSH-arch"/>
 </p>
-*(Note: Streak stats service might be slow or temporarily unavailable)*
 
 ---
 ## Competitive Programming Achievements 🏆
@@ -82,5 +81,3 @@ Aspiring Full-Stack Developer | Competitive Programmer
 * **LeetCode:** Max Rating: 1801
 * Solved 1000+ problems across various platforms.
 * Solved 300+ problems on LeetCode.
-
-*(Remember to replace `#Your...URL` placeholders in the "Connect With Me" section with your actual profile links!)*
