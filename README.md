@@ -63,7 +63,7 @@ Full-Stack Developer | Competitive Programmer
 
 ---
 ## GitHub Stats 📊
-
+![](https://komarev.com/ghpvc/?username=SOMANSH-arch&color=green)
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SOMANSH-arch&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOMANSH-arch&layout=compact&langs_count=8&theme=dark&hide_border=true&border_radius=10"/>
